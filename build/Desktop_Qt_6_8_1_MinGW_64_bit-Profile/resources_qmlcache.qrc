@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/CarInfotainment">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="ConstantsModule/qmldir">../../ConstantsModule/qmldir</file>
+        <file alias="ConstantsModule/Constants.qml">../../ConstantsModule/Constants.qml</file>
+        <file alias="fonts/DejaVuSans.qpf2">../../fonts/DejaVuSans.qpf2</file>
+        <file alias="Images/arrow-45.png">../../Images/arrow-45.png</file>
+        <file alias="Images/30.png">../../Images/30.png</file>
+        <file alias="Images/50.png">../../Images/50.png</file>
+        <file alias="Images/70.png">../../Images/70.png</file>
+        <file alias="Images/90.png">../../Images/90.png</file>
+        <file alias="Images/140.png">../../Images/140.png</file>
+        <file alias="Images/arrow-0.png">../../Images/arrow-0.png</file>
+        <file alias="Images/arrow-90.png">../../Images/arrow-90.png</file>
+        <file alias="Images/arrow-round.png">../../Images/arrow-round.png</file>
+        <file alias="Images/navi.png">../../Images/navi.png</file>
+        <file alias="Images/phone.png">../../Images/phone.png</file>
+        <file alias="Images/play.png">../../Images/play.png</file>
+        <file alias="Images/setup.png">../../Images/setup.png</file>
+    </qresource>
+</RCC>

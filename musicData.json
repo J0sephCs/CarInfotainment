@@ -1,0 +1,25 @@
+[
+  {
+    "songName": "Bam",
+    "artistName": "Jay-Z",
+    "albumCover": "qrc:/CarInfotainment/Images/Jay-Z.jpg_large"
+  },
+  {
+    "songName": "Nikes on My Feet",
+    "artistName": "Mac Miller",
+    "albumCover": "qrc:/CarInfotainment/Images/macMiller.jpg"
+  },
+  {
+    "songName": "Halloween",
+    "artistName": "Kodak",
+    "albumCover": "qrc:/CarInfotainment/Images/kodak.jpg"
+  },
+  {
+    "songName": "Left Lonely",
+    "artistName": "Hotboii",
+    "albumCover": "qrc:/CarInfotainment/Images/hotboii.jpg"
+  }
+
+
+
+]

@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/CarInfotainment">
+        <file>main.qml</file>
+        <file>MPH_Gauge.qml</file>
+        <file>ConstantsModule/qmldir</file>
+        <file>ConstantsModule/Constants.qml</file>
+        <file>fonts/DejaVuSans.qpf2</file>
+        <file>Images/arrow-45.png</file>
+        <file>Images/30.png</file>
+        <file>Images/50.png</file>
+        <file>Images/70.png</file>
+        <file>Images/90.png</file>
+        <file>Images/140.png</file>
+        <file>Images/arrow-0.png</file>
+        <file>Images/arrow-90.png</file>
+        <file>Images/arrow-round.png</file>
+        <file>Images/navi.png</file>
+        <file>Images/phone.png</file>
+        <file>Images/play.png</file>
+        <file>Images/setup.png</file>
+        <file>Images/maxLimit.svg</file>
+        <file>Images/Rectangle 4.svg</file>
+        <file>Images/Ellipse 1.svg</file>
+        <file>Images/Subtract.svg</file>
+        <file>Images/Ellipse 6.svg</file>
+        <file>Images/Car.svg</file>
+        <file>Images/Vector 2.svg</file>
+        <file>Images/dashboard_orange.png</file>
+        <file>Images/Low beam headlights.svg</file>
+        <file>Images/Low_beam_headlights_white.svg</file>
+        <file>Images/Model 3.png</file>
+        <file>Images/Vector 1.svg</file>
+        <file>Images/Parking lights.svg</file>
+        <file>Images/Parking_lights_white.svg</file>
+        <file>Images/Light_White.svg</file>
+        <file>Images/Lights.svg</file>
+        <file>Images/FourthRightIcon.svg</file>
+        <file>Images/FourthRightIcon_red.svg</file>
+        <file>Images/thirdRightIcon.svg</file>
+        <file>Images/thirdRightIcon_red.svg</file>
+        <file>Images/SecondRightIcon.svg</file>
+        <file>Images/SecondRightIcon_red.svg</file>
+        <file>Images/FirstRightIcon.svg</file>
+        <file>Images/FirstRightIcon_grey.svg</file>
+        <file>Images/road.svg</file>
+        <file>Images/fuel.svg</file>
+        <file>Images/speedometer.svg</file>
+        <file>Images/Rare fog lights.svg</file>
+        <file>Images/Rare_fog_lights_red.svg</file>
+        <file>Images/ECO_TOP.svg</file>
+        <file>Images/NORM_TOP.svg</file>
+        <file>Images/SPORT_TOP.svg</file>
+        <file>Images/NORM_BACK.svg</file>
+        <file>Images/NORM_gauge.svg</file>
+        <file>Images/needle_red.svg</file>
+        <file>Images/fuel.png</file>
+        <file>LinearGauge.qml</file>
+        <file>TmpGauge.qml</file>
+        <file>Images/oil-temp.png</file>
+        <file>Images/road.png</file>
+        <file>RPM_Gauge.qml</file>
+        <file>Images/macMiller.jpg</file>
+        <file>Images/Jay-Z.jpg_large</file>
+        <file>Images/kodak.jpg</file>
+        <file>MusicPlayer.qml</file>
+        <file>Images/hotboii.jpg</file>
+        <file>Images/gps.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>musicData.json</file>
+    </qresource>
+</RCC>
